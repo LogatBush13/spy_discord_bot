@@ -1,0 +1,17 @@
+Cython @ file:///buildstream-build
+Mako @ file:///buildstream-build
+Markdown @ file:///buildstream-build
+MarkupSafe @ file:///buildstream-build
+meson==0.63.3
+MouseInfo==0.1.3
+numpy==1.24.2
+PyAutoGUI==0.9.53
+PyGetWindow==0.0.9
+Pygments @ file:///buildstream-build
+PyMsgBox==1.0.9
+pyperclip==1.8.2
+PyRect==0.2.0
+PyScreeze==0.1.28
+python3-xlib==0.15
+pytweening==1.0.4
+six @ file:///buildstream-build
